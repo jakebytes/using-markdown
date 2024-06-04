@@ -13,3 +13,8 @@ I added 3 different sized Markdown headers (h1-h3) above.
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+### Task list
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
