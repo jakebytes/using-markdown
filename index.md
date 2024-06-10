@@ -1,12 +1,10 @@
-# H1
-## H2
-### H3
+# Header 1
+## Header 2
+### Header 3
 
-I added 3 different sized Markdown headers (h1-h3) above.
+**Image of a Praying Mantis**
 
-**Praying Mantis**
-
-![image of a praying mantis](https://github.com/jakebytes/using-markdown/blob/main/praying_mantis.jpeg)
+![image of a praying mantis](https://github.com/jakebytes/using-markdown/blob/main/praying_mantis_resize.jpg)
 
 *Here's an example of formatted JavaScript code:*
 
